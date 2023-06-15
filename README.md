@@ -36,6 +36,9 @@ Consiste nos arquivos "Atividade 2.ipynb" e "atividade2_output.csv"
 * "Atividade 2.ipynb" - Análise e preparação do output de comparação entre todos os objetos do "items_titles_test.csv"
 * "atividade2_output.csv" - Output com a matrix de comparação de similaridade entre todos os objetos
 
+### Output
+* https://we.tl/t-GnfcqiRDEi
+
 ## Atividade 3
 Consiste no arquivo "Atividade 3.ipynb"
 * "Atividade 3.ipynb" - Análise e previsão utilizando alguns algoritmos do tipo MLP, KNN, SVC, Tree e XGBoost. Como foi por teste, os modelos não foram salvos e o output mostra como matriz de confusão e classification report.
